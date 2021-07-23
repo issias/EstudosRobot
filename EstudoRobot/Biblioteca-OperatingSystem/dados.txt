@@ -1,0 +1,6 @@
+Teste de leitura de arquivos em robot
+
+Valor1
+Valor2
+Valor3
+Valor4
